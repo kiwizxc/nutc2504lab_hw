@@ -1,0 +1,13 @@
+body {
+  background-color: #f5f5f5;
+  font-family: Arial;
+}
+
+.card {
+  width: 300px;
+  margin: 100px auto;
+  padding: 20px;
+  background: white;
+  text-align: center;
+  border-radius: 10px;
+}
