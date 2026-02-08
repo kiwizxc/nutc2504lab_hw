@@ -215,7 +215,7 @@ if __name__ == "__main__":
     test_query = "請說明本文的核心重點是什麼？"
     
     evaluate_method("固定切塊(Fixed)", fixed_chunks, test_query)
-    evaluate_method("語意切塊(Semantic)", semantic_chunks, test_query)
+    evaluate_method("滑動視窗切塊(sliding+Semantic)", semantic_chunks, test_query)
 
     # 3. 建立最終作業資料庫
     print("\n--- 3. 建立最終資料庫 (CW/02) ---")
