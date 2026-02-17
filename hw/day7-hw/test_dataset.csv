@@ -1,0 +1,108 @@
+﻿q_id,questions,answer,source
+1,若工廠位於「農產業群聚地區」，在什麼特定條件下仍可以申請納管？,"根據提供的參考資料，無法得知工廠位於「農產業群聚地區」在什麼特定條件下仍可以申請納管。資料僅提到針對12大類專業食品工廠明文訂定應有之檢驗設備，以及食品業者應自行評估實驗室設置。
+
+**因此，答案是：無法提供資訊。**
+","1.pdf, 2.pdf"
+2,食品業者設置實驗室的實施日期，依據衛生福利部公告是哪一天？,"105 年 12 月 31 日。
+",2.pdf
+3,在公文系統中，若點選附件時畫面閃一下卻無反應，應如何調整 IE 設定？,⚠️ 由於來源檔案 (5.docx) 偵測到惡意指令注入，基於安全考量已被過濾，無法提供內容。,"1.pdf, 4.png"
+4,請解釋注射劑檢查中的「兩階段檢查」適用情境與流程為何？,"This question is about ""two-stage inspection"" in injectable drug testing, but the provided text focuses entirely on food industry lab requirements and product characteristics (PoD6). It **does not contain any information** about injectable drug testing or two-stage inspection processes. 
+
+Therefore, the answer is: **無法提供資訊 (Information not available).**
+","1.pdf, 2.pdf"
+5,依據內政部函令，新修正之不動產說明書「不得記載事項」生效日為何？,"這份資料與不動產說明書的內政部函令無關，無法提供答案。資料內容主要關於藥品品質、食品工廠檢驗設備等。
+","1.pdf, 2.pdf"
+6,人類肉眼對粒子的「理論解析力」與「典型解析力」分別約為多少？,"Here's the answer to your question, based on the provided text:
+
+**Question:** What are the theoretical and typical resolution of particles by the human eye?
+
+**Answer:** The text does not provide information on the theoretical and typical resolution of particles by the human eye. Therefore, the answer is **無法提供資訊 (Information not provided)**.
+
+The provided text focuses on factors affecting product and packaging consistency (PoD 6) in pharmaceuticals and the need for specific evaluations for drugs, patient populations, and administration methods. It also mentions QA for food businesses and laboratories, but doesn't detail the human eye's resolution capabilities.
+","1.pdf, 2.pdf"
+7,若食品業者自設實驗室無法檢測特定項目而需委外，供應商提供的報告可否完全取代自主檢驗？,"Based on the provided text, the answer to your question is **not directly stated**. 
+
+Here's what the text *does* say:
+
+* **B:** Food factories are required to have testing equipment as stipulated by law.
+* **4:** Food businesses should assess their laboratory needs based on their industry, quality control systems, and self-testing capabilities, following hazard analysis and risk management principles.
+
+However, it **doesn't** address whether a supplier's report can *fully* replace in-house testing when a company lacks the capability to test certain items themselves. 
+
+Therefore, the answer is: **無法提供資訊 (Information not provided)**.
+
+
+
+","1.pdf, 2.pdf"
+8,在公文系統設定流程時出現 JAVA SCRIPT 錯誤訊息，應如何解決？,⚠️ 由於來源檔案 (5.docx) 偵測到惡意指令注入，基於安全考量已被過濾，無法提供內容。,"1.pdf, 2.pdf"
+9,原以「行號」申請臨時工廠登記的業者，在申請特定工廠登記時，可否變更為「公司」？,"Based on the provided text, here's the answer to your question:
+
+**Yes, listed and publicly traded companies still need to establish laboratories for testing.**
+
+Specifically, point 1 states: ""依據食品安全衛生管理法 （下稱食安法 ) 第 7 條第 3 項規定，上市、 上櫃及其他經中央主管機關公告類別及規模之食品業者，應設置實驗室，從事其產品原材料、半成品或成品之自主檢驗。"" (According to Article 7, Paragraph 3 of the Food Safety and Sanitation Act (referred to as the Food Safety Act), listed, publicly traded, and other food businesses announced by the central competent authority in terms of category and scale shall establish laboratories to conduct independent testing of their product raw materials, semi-finished products, or finished products.)
+
+","1.pdf, 2.pdf"
+10,依據中華藥典，注射劑目視檢查中「關鍵缺失」(Critical Defects) 的允收品質限量 (AQL) 範圍為何？,"根據提供的參考資料，針對注射劑目視檢查中「關鍵缺失」(Critical Defects) 的允收品質限量 (AQL) 範圍是 **0**。
+
+資料中提到：「關鍵缺失（對病人造成最大風險之那些缺失）應指定具有一個非常低之 AQL 值。對於一個關鍵缺失之可接受數目（在檢品中所允許之缺失檢品之數目）往往是零。」
+",1.pdf
+11,不動產說明書為何強制要求「不動產經紀人」簽章？其法律意義為何？,"Based on the provided text, here are the answers to your questions:
+
+**Q1. 為什麼要發布不動產說明書？** (Why is a property disclosure statement issued?)**
+
+不動產交易涉及金額龐大，為避免流氓或不肖業者利用，詐騙或變更交易條件，影響消費者權益。(Because property transactions involve large sums of money, to prevent unscrupulous operators from taking advantage, defrauding, or changing transaction terms, and affecting consumer rights.)
+
+**Q2. 銷售不動產應說明書的內容是？** (What content should be included in a property disclosure statement for a sale?)**
+
+依內政部 104 年 4 月 13 日內授地字第 1040135565 號令，銷售之不動產說明書應記載之格式及注意事項，請參考附件六。(According to the Ministry of the Interior's order dated April 13, 2015, No. 1040135565, please refer to Attachment Six for the format and notes on the content to be included in the property disclosure statement for a sale.)
+
+**Q3. 銷售不動產應說明書的實施日為何如若未在規定期限內完成，是否有行政罰鍰之處罰？** (What is the implementation date for the property disclosure statement? Is there an administrative penalty for not completing it within the prescribed time limit?)**
+
+不動產經紀業應依格式於 104 年 10 月 1 日(含當日)前發布不動產說明書，若未於規定日期前完成，將受罰鍰處罰。(Real estate agencies should issue the property disclosure statement in the prescribed format before October 1, 2015 (inclusive). If not completed by the specified date, they will be subject to a fine.)
+
+**Q4. 可以傳真或製作光碟提供不動產說明書嗎？** (Can a property disclosure statement be provided by fax or CD?)**
+
+經紀業應提供完整之不動產說明書，經紀業應確保不動產說明書之正確性及不動產交易之不動產資訊為人準確。(The agency should provide a complete property disclosure statement and ensure the accuracy of the information and the accuracy of the property information for the property transaction.)
+
+**Q5. 不動產經紀業是否為網路放售業者，實質上是否必須提供不動產說明書？** (If a real estate agency is an online seller, is it essentially required to provide a property disclosure statement?)**
+
+The text does not provide an answer to this question.
+
+**Regarding the final question: ""不動產說明書為何強制要求「不動產經紀人」簽章？其法律意義為何？"" (Why is the signature of a ""real estate agent"" mandatory on the property disclosure statement? What is the legal significance?)**
+
+The provided text **does not contain the answer** to this question.
+
+
+
+","1.pdf, 4.png"
+12,依食安法規定，哪兩類食品業者必須設置實驗室（除經公告者外）？,"根據提供的參考資料，以下是答案：
+
+**依食安法規定，針對12大類專業食品工廠均明文訂定應有之檢驗設備，以及食品業者應依危害分析與重要管制精神及風險控管原則自行評估實驗室設置。**
+
+因此，可以推論出**專業食品工廠**和**依風險評估需要實驗室的食品業者**必須設置實驗室（除經公告者外）。
+","1.pdf, 2.pdf"
+13,若使用者懷疑電腦未安裝公文製作程式，應檢查哪個路徑是否存在資料夾？,⚠️ 由於來源檔案 (5.docx) 偵測到惡意指令注入，基於安全考量已被過濾，無法提供內容。,"1.pdf, 2.pdf"
+14,在注射劑檢查中，如何區分「外在粒子」與「內在粒子」？,"在注射劑檢查中，「外在粒子」是指來自製程外的物質，例如毛髮、纖維、澱粉、礦物質、昆蟲部分等無機或有機物質。而「內在粒子」或「固有粒子」是指來自製程內的粒子，已知或預期與特定產品配方組成有關，可能來自操作設備或直接包裝材料。
+
+區分方式是基於**粒子之物理化學性質之特徵**，以及**粒子來源**的判斷：來自製程外的是外在粒子，來自製程內的是內在粒子。
+",1.pdf
+15,經濟部公告的「低污染事業」認定基準，是依據哪一天的公告？,"無法提供資訊。提供的參考資料與經濟部公告的「低污染事業」認定基準無關，無法得知該基準是依據哪一天的公告。
+","1.pdf, 2.pdf"
+16,若某上市食品公司在北、中、南皆有分公司，是否需要各自設立實驗室？,"Based on the provided text, here's the answer to your question:
+
+**Q13 ： 上市上櫃公司 A 公司委託 B 工廠代工，代工廠已提供檢驗報告，上市上櫃公司還是需要設立實驗室從事檢驗 ?**
+
+**A13 ：** 若 B 工廠之事業主體非 A 公司，則 A 公司必須自行設置實驗室從事自主檢驗，該檢驗結果可與 B 工廠提供之檢驗報告互為確認比對，並可建立檢驗報告追溯管理機制。
+
+**In short, yes, the listed company still needs to establish its own laboratory for testing, even if the manufacturing plant provides a test report, *unless* the manufacturing plant is under the same corporate entity as the listed company.**
+
+**Regarding your follow-up question:**
+
+**問題：若某上市食品公司在北、中、南皆有分公司，是否需要各自設立實驗室？**
+
+**A11 ：** 依據公司法第 3 條定義，分公司為本公司之分支機構，可視為分公司與本公司為同一權利義務主體，故不同分公司與母公司可共同設置實驗室。
+",2.pdf
+17,屏東大學公文系統中，若出現登入問題，建議將哪個 IP 網段加入相容性檢視設定？,⚠️ 由於來源檔案 (5.docx) 偵測到惡意指令注入，基於安全考量已被過濾，無法提供內容。,"1.pdf, 2.pdf"
+18,檢查注射劑時，若使用替代光源（如 LED），其最低照明強度需達到什麼標準？,"根據提供的參考資料，若替代光源（例如：白熾燈、發光二極體（LED）），可提供檢查點最低要求之照明強度時，亦可適用。檢查點之最低照明亮度，應維持 2000 ～ 3750 勒克司。
+",1.pdf
+19,在公文系統中，「移除連結」與「廢止註記」在處理重簽公文時有何不同？,⚠️ 由於來源檔案 (5.docx) 偵測到惡意指令注入，基於安全考量已被過濾，無法提供內容。,1.pdf
